@@ -1,7 +1,7 @@
 ### Eae galera, sou o Matheus 👋
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas.
-- 📫 Contate-me em: mathevs.santoz@gmail.com
+- 📫 Contate-me em: matheus.slima@sptech.school
 
 <div align="center">
   <a href="https://github.com/matheuslima19">
