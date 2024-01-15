@@ -18,7 +18,7 @@
   <img align="center" alt="c0de-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="c0de-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="c0de-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
- <br> <br> <img align="center" alt="c0de-pic"  style="border-radius:50px;" src="matheuslima19/Be.gif">
+ <br> <br> <img align="center" alt="c0de-pic" width="480" height="240"  style="border-radius:50px;" src="./.github/Be.gif">
 </div>
 </div>
   
