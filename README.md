@@ -1,4 +1,4 @@
-### Eae galera, sou o Matheus 👋
+### Olá, sou o Matheus 👋
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 📫 Contate-me em: contatomatheussantoslima@gmail.com
